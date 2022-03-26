@@ -1,0 +1,87 @@
+TEST CASE 1:
+Welcome to XYZ atm
+Press 1 : If you want to create a new account
+Press 2 : If you want to view your balance
+Press 3 : If you want to withdraw your cash
+Press 4 : If you want to deposit the cash
+Press 5 : If you want to exit
+1
+Enter username :
+saranya
+Enter phone number :
+9121986335
+Your account number:
+81643
+Your pin:
+25327
+Enter the amount paid:
+700
+2
+Enter account number:
+81643
+Enter pin:
+25327
+Your otp:
+075968
+Enter otp:
+075968
+Current balance : 700.0
+3
+Enter the account number:
+81643
+Enter the pin:
+25327
+Your otp:
+089021
+Enter the otp:
+089021
+Enter the amount to be withdrawn:
+800
+Insufficient balance
+
+Process finished with exit code 0
+TEST CASE 2:
+Welcome to XYZ atm
+Press 1 : If you want to create a new account
+Press 2 : If you want to view your balance
+Press 3 : If you want to withdraw your cash
+Press 4 : If you want to deposit the cash
+Press 5 : If you want to exit
+1
+Enter username :
+lavanya
+Enter phone number :
+12344679
+Your account number:
+42094
+Your pin:
+76603
+Enter the amount paid:
+900
+3
+Enter the account number:
+42094
+Enter the pin:
+76603
+Your otp:
+087979
+Enter the otp:
+087979
+Enter the amount to be withdrawn:
+523
+Current balance : 377.0
+4
+Enter the account number:
+42094
+Enter the pin:
+76603
+Your otp:
+085121
+Enter otp:
+085121
+Enter the amount to be deposited
+800
+Current balance : 1177.0
+5
+
+Process finished with exit code 0
